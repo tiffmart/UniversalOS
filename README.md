@@ -11,13 +11,13 @@ UniversalOS is a human-first, AI-aligned operating system for civic life: not fi
 Not a phone or computer OS. Not a political party. Not a brand campaign. Not vibes without structure.
 
 ## How to use it
-1. Read this README, the [Clarity Pledge](CLARITY-PLEDGE.md), and the [Roadmap](ROADMAP.md).
+1. Read this README, the [Clarity Pledge](CLARITY-PLEDGE.md), the [Roadmap](ROADMAP.md), and the [Receipts template](RECEIPTS-TEMPLATE.md).
 2. Fork what you need.
-3. Fill one real piece: a local rule, a transparency stub, or a receipts template.
-4. Show your work: promise, build, proof.
+3. Fill one real piece still open: a transparency stub or a local rule.
+4. Show your work with the receipts template: promise, build, proof.
 
 ## Status
-v0.0 stake. Incomplete on purpose. Next ship is one concrete module, not more poetry.
+v0.0 stake. Incomplete on purpose. Receipts template is shipped ([RECEIPTS-TEMPLATE.md](RECEIPTS-TEMPLATE.md)). Next concrete module is still open: transparency stub or local rule kit.
 
 ## License
 TBD (pick before first public push).
