@@ -17,7 +17,9 @@ Not a phone or computer OS. Not a political party. Not a brand campaign. Not vib
 4. Show your work with the receipts template: promise, build, proof.
 
 ## Status
-v0.0 stake. Incomplete on purpose. Receipts template is shipped ([RECEIPTS-TEMPLATE.md](RECEIPTS-TEMPLATE.md)). Next concrete module is still open: transparency stub or local rule kit.
+v0.0 stake. Incomplete on purpose. Receipts template is shipped ([RECEIPTS-TEMPLATE.md](RECEIPTS-TEMPLATE.md)). Next concrete module still open: transparency stub.
+
+- Local rule kit stub shipped: [LENS-FIRST-RULE.md](LENS-FIRST-RULE.md).
 
 ## License
 TBD (pick before first public push).
