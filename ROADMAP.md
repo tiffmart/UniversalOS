@@ -17,7 +17,7 @@ Status: v0.0. Phase 0 is in the public repo. Still incomplete on purpose.
 Concrete pieces people can fork without vibes:
 - [x] **Receipts template** — promise → build → proof ([RECEIPTS-TEMPLATE.md](RECEIPTS-TEMPLATE.md))
 - [ ] **Transparency stub** — decisions/data open by default
-- [ ] **Local rule kit** — one real civic/community rule in UniversalOS shape
+- [x] **Local rule kit** — stub shipped ([LENS-FIRST-RULE.md](LENS-FIRST-RULE.md)); not wired into a bot prompt yet
 - [ ] **Clarity engine notes** — how "receipts match blueprint" gets checked
 
 No mascots. No dashboards that hide gaps.
