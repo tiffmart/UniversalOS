@@ -22,10 +22,10 @@ Concrete pieces people can fork without vibes:
 
 No mascots. No dashboards that hide gaps.
 
-## Phase 2 — Engagement
-- Invite forks and remixes
-- Document what people actually build (not what we wish they built)
-- Public list of remixes with links + what they shipped
+## Phase 2 — Engagement (started)
+- [x] **Invite forks and remixes** — started via [INVITE-FORKS.md](INVITE-FORKS.md)
+- [ ] **Document what people actually build** (not what we wish they built) — in progress via the empty remix ledger in [INVITE-FORKS.md](INVITE-FORKS.md); no real rows yet
+- [ ] **Public list of remixes** with links + what they shipped — ledger is in [INVITE-FORKS.md](INVITE-FORKS.md) and still empty
 
 ## Phase 3 — Scale (later, earned)
 - Connect to builders / civic orgs who already show work
