@@ -18,7 +18,7 @@ Concrete pieces people can fork without vibes:
 - [x] **Receipts template** — promise → build → proof ([RECEIPTS-TEMPLATE.md](RECEIPTS-TEMPLATE.md))
 - [x] **Transparency stub** — stub shipped ([TRANSPARENCY-STUB.md](TRANSPARENCY-STUB.md)); decisions/data open by default
 - [x] **Local rule kit** — stub shipped ([LENS-FIRST-RULE.md](LENS-FIRST-RULE.md)); not wired into a bot prompt yet
-- [ ] **Clarity engine notes** — how "receipts match blueprint" gets checked
+- [x] **Clarity engine notes** — notes shipped ([CLARITY-ENGINE-NOTES.md](CLARITY-ENGINE-NOTES.md)); how "receipts match blueprint" gets checked
 
 No mascots. No dashboards that hide gaps.
 
