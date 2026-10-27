@@ -6,19 +6,19 @@
 
 ## Phase 0 — Stake (now)
 - [x] One-pager (`ONE-PAGER.md`) — what it is, who it's for, how you use it
-- [ ] Relaunch public repo under a live account (old GitHub locked behind dead `tiffgpt` email)
-- [ ] README (short, matches the one-pager pitch)
-- [ ] Clarity Pledge
-- [ ] This roadmap, in-repo
+- [x] Public repo live at [tiffmart/UniversalOS](https://github.com/tiffmart/UniversalOS) (old GitHub locked behind dead `tiffgpt` email)
+- [x] README (short, matches the one-pager pitch)
+- [x] Clarity Pledge (`CLARITY-PLEDGE.md`)
+- [x] This roadmap, in-repo
 
-Status: v0.0. Shipping stubs, not poetry.
+Status: v0.0. Phase 0 is in the public repo. Still incomplete on purpose.
 
 ## Phase 1 — Foundation
 Concrete pieces people can fork without vibes:
-- **Receipts template** — promise → build → proof (one page)
-- **Transparency stub** — decisions/data open by default
-- **Local rule kit** — one real civic/community rule in UniversalOS shape
-- **Clarity engine notes** — how "receipts match blueprint" gets checked
+- [x] **Receipts template** — promise → build → proof ([RECEIPTS-TEMPLATE.md](RECEIPTS-TEMPLATE.md))
+- [ ] **Transparency stub** — decisions/data open by default
+- [ ] **Local rule kit** — one real civic/community rule in UniversalOS shape
+- [ ] **Clarity engine notes** — how "receipts match blueprint" gets checked
 
 No mascots. No dashboards that hide gaps.
 
