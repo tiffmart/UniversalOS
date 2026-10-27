@@ -16,7 +16,7 @@ Status: v0.0. Phase 0 is in the public repo. Still incomplete on purpose.
 ## Phase 1 — Foundation
 Concrete pieces people can fork without vibes:
 - [x] **Receipts template** — promise → build → proof ([RECEIPTS-TEMPLATE.md](RECEIPTS-TEMPLATE.md))
-- [ ] **Transparency stub** — decisions/data open by default
+- [x] **Transparency stub** — stub shipped ([TRANSPARENCY-STUB.md](TRANSPARENCY-STUB.md)); decisions/data open by default
 - [x] **Local rule kit** — stub shipped ([LENS-FIRST-RULE.md](LENS-FIRST-RULE.md)); not wired into a bot prompt yet
 - [ ] **Clarity engine notes** — how "receipts match blueprint" gets checked
 
