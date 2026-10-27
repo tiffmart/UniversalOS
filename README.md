@@ -13,14 +13,15 @@ Not a phone or computer OS. Not a political party. Not a brand campaign. Not vib
 ## How to use it
 1. Read this README, the [Clarity Pledge](CLARITY-PLEDGE.md), the [Roadmap](ROADMAP.md), and the [Receipts template](RECEIPTS-TEMPLATE.md).
 2. Fork what you need.
-3. Fill one real piece still open: clarity engine notes.
+3. Phase 1 foundation is complete. Next open: Phase 2 (invite forks).
 4. Show your work with the receipts template: promise, build, proof.
 
 ## Status
-v0.0 stake. Incomplete on purpose. Receipts template is shipped ([RECEIPTS-TEMPLATE.md](RECEIPTS-TEMPLATE.md)). Next concrete module still open: clarity engine notes.
+v0.0 stake. Incomplete on purpose. Phase 1 foundation complete. Next open: Phase 2 (invite forks).
 
 - Local rule kit stub shipped: [LENS-FIRST-RULE.md](LENS-FIRST-RULE.md).
 - Transparency stub shipped: [TRANSPARENCY-STUB.md](TRANSPARENCY-STUB.md).
+- Clarity engine notes shipped: [CLARITY-ENGINE-NOTES.md](CLARITY-ENGINE-NOTES.md).
 
 ## License
 TBD (pick before first public push).
