@@ -40,7 +40,7 @@ Public list of remixes. Add a row when something ships. Empty is honest.
 ---
 
 ## What's unfinished (labeled)
-- **License:** still TBD on the README. Fork at your own clarity until a license is picked — say what you used on your side.
+- **License:** MIT — [LICENSE](LICENSE).
 - No automated remix discovery. This ledger is manual on purpose.
 - Phase 2 also includes documenting what people build — that starts when the first real row appears.
 
