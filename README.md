@@ -26,6 +26,6 @@ v0.0 stake. Incomplete on purpose. Phase 1 foundation complete. Phase 2 started:
 - Fog School routing stub (comic/civic): [FOG-SCHOOL.md](FOG-SCHOOL.md).
 
 ## License
-TBD (pick before first public push).
+[MIT](LICENSE). The [Clarity Pledge](CLARITY-PLEDGE.md) is ethics, not a license.
 
 *Out of many, one. For real this time.*
