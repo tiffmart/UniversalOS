@@ -25,6 +25,7 @@ No mascots. No dashboards that hide gaps.
 ## Phase 2 — Engagement (started)
 - [x] **Invite forks and remixes** — started via [INVITE-FORKS.md](INVITE-FORKS.md)
 - [x] **Fog School / routing stub** — started via [FOG-SCHOOL.md](FOG-SCHOOL.md) (comic/civic)
+- [x] **Machine receipt ledger stub** — [ledger/](ledger/README.md); schema, empty `receipts.jsonl`, and append script only. No live rows
 - [ ] **Document what people actually build** (not what we wish they built) — in progress via the empty remix ledger in [INVITE-FORKS.md](INVITE-FORKS.md); no real rows yet
 - [ ] **Public list of remixes** with links + what they shipped — ledger is in [INVITE-FORKS.md](INVITE-FORKS.md) and still empty
 
