@@ -31,6 +31,8 @@ What we do **not** need: a manifesto about forking.
 ## Remix ledger
 Public list of remixes. Add a row when something ships. Empty is honest.
 
+Machine-readable twin: [ledger/](ledger/README.md) ([SCHEMA.md](ledger/SCHEMA.md) + empty [receipts.jsonl](ledger/receipts.jsonl)). Same events, one JSON line each. This table stays the human list.
+
 | Remix | Who | Link | What shipped | Date | Receipts? |
 |-------|-----|------|--------------|------|-----------|
 | — | — | — | — | — | — |

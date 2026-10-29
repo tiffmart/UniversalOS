@@ -23,6 +23,7 @@ v0.0 stake. Incomplete on purpose. Phase 1 foundation complete. Phase 2 started:
 - Transparency stub shipped: [TRANSPARENCY-STUB.md](TRANSPARENCY-STUB.md).
 - Clarity engine notes shipped: [CLARITY-ENGINE-NOTES.md](CLARITY-ENGINE-NOTES.md).
 - Invite forks started: [INVITE-FORKS.md](INVITE-FORKS.md). Remix ledger is empty.
+- Machine receipt ledger stub: [ledger/](ledger/README.md). Empty on purpose; no live rows yet.
 - Fog School routing stub (comic/civic): [FOG-SCHOOL.md](FOG-SCHOOL.md).
 
 ## License
